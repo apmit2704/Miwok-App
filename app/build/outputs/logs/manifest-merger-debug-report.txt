@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\3a253bd556252303e3d13138c2261fab\design-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\2f732c6ea8337b324a395e279511a61b\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e867a11fe612d6768c18e0b8537dd3fc\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\41acf54946af0f3405824fa2332026e6\recyclerview-v7-23.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e0f54ed74802597fbf397fa554943d9f\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+	package
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:1-56:12
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:6:5-54:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\3a253bd556252303e3d13138c2261fab\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\3a253bd556252303e3d13138c2261fab\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\2f732c6ea8337b324a395e279511a61b\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\2f732c6ea8337b324a395e279511a61b\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e867a11fe612d6768c18e0b8537dd3fc\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e867a11fe612d6768c18e0b8537dd3fc\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e0f54ed74802597fbf397fa554943d9f\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e0f54ed74802597fbf397fa554943d9f\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.miwok.MainActivity
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.android.miwok.NumbersActivity
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:parentActivityName
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:21:13-55
+	android:label
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:19:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:23:13-25:48
+	android:value
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:25:17-46
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:24:17-63
+activity#com.example.android.miwok.FamilyActivity
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:parentActivityName
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:30:13-55
+	android:label
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.example.android.miwok.ColorsActivity
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:parentActivityName
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:39:13-55
+	android:label
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:37:13-43
+activity#com.example.android.miwok.PhrasesActivity
+ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:parentActivityName
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:48:13-55
+	android:label
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:47:13-53
+	android:name
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml:46:13-44
+uses-sdk
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\3a253bd556252303e3d13138c2261fab\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\3a253bd556252303e3d13138c2261fab\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\2f732c6ea8337b324a395e279511a61b\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\2f732c6ea8337b324a395e279511a61b\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e867a11fe612d6768c18e0b8537dd3fc\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e867a11fe612d6768c18e0b8537dd3fc\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\41acf54946af0f3405824fa2332026e6\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\41acf54946af0f3405824fa2332026e6\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e0f54ed74802597fbf397fa554943d9f\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\e0f54ed74802597fbf397fa554943d9f\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aparna\.gradle\caches\transforms-2\files-2.1\615340b7465f8367a581f297168775cf\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aparna\AndroidStudioProjects\Miwok-Language-Translation App\app\src\main\AndroidManifest.xml
